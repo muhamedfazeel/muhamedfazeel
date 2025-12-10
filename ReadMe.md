@@ -52,39 +52,45 @@ Let's build something amazing together! 💡
 
 ### Frontend
 
-[![Frontend](https://skillicons.dev/icons?i=js,ts,py,html,css,scss,tailwind,react,vite,md)](https://github.com/muhamedfazeel)
+![Frontend](https://skillicons.dev/icons?i=js,ts,py,html,css,scss,tailwind,react,vite,md)
 
 ### Backend
 
-[![Backend](https://skillicons.dev/icons?i=nodejs,nestjs,express,python,bash,discordjs)](https://github.com/muhamedfazeel)
+![Backend](https://skillicons.dev/icons?i=nodejs,nestjs,express,python,bash,discordjs,java)
 
 ### State Management
 
-[![State Management](https://skillicons.dev/icons?i=react,redux)](https://github.com/muhamedfazeel)
+![State Management](https://skillicons.dev/icons?i=react,redux)
 
 ### Devops
 
-[![Devops](https://skillicons.dev/icons?i=docker,githubactions)](https://github.com/muhamedfazeel)
+![Devops](https://skillicons.dev/icons?i=docker,githubactions,jenkins)
 
 ### Database
 
-[![Database](https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongo)](https://github.com/muhamedfazeel)
+![Database](https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongo)
 
 ### Cloud
 
-[![Cloud](https://skillicons.dev/icons?i=azure,aws,vercel,cloudflare,netlify)](https://github.com/muhamedfazeel)
+![Cloud](https://skillicons.dev/icons?i=azure,aws,vercel,cloudflare,netlify,gcp)
 
 ### Version Control
 
-[![Version Control](https://skillicons.dev/icons?i=git,github,gitlab)](https://github.com/muhamedfazeel)
+![Version Control](https://skillicons.dev/icons?i=git,github,gitlab)
 
 ### Softwares
 
-[![Softwares](https://skillicons.dev/icons?i=vscode,ps,postman,figma)](https://github.com/muhamedfazeel)
+![Softwares](https://skillicons.dev/icons?i=vscode,postman,figma,atom,sublime)
 
 ### Operating Systen
 
-[![OS](https://skillicons.dev/icons?i=windows,ubuntu,kali)](https://github.com/muhamedfazeel)
+![OS](https://skillicons.dev/icons?i=windows,ubuntu,kali)
+
+## Badges
+
+### TryHackMe
+
+<img src="https://tryhackme-badges.s3.amazonaws.com/groot.here.png" alt="TryHackMe badge" />
 
 ## Stats
 
