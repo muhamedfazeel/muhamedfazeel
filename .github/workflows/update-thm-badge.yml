@@ -9,13 +9,17 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
+
+      - name: Create directory if it doesn't exist
+        run: mkdir -p images/badges
+      
       - name: Fetch Badge
         run: |
-          curl -o thm-badge.png https://tryhackme-badges.s3.amazonaws.com/groot.here.png
+          curl -o images/badges/thm-badge.png https://tryhackme-badges.s3.amazonaws.com/groot.here.png
       - name: Commit and Push
         run: |
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
-          git add thm-badge.png
+          git add images/badges/thm-badge.png
           git commit -m "Update THM Badge" || exit 0
           git push
