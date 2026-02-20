@@ -90,7 +90,7 @@ Let's build something amazing together! 💡
 
 ### TryHackMe
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/groot.here.png" alt="TryHackMe Badge" />
+<img src="./images/badges/thm-badge.png" alt="TryHackMe Badge" />
 
 ## Stats
 
