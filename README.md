@@ -90,7 +90,7 @@ Let's build something amazing together! 💡
 
 ### TryHackMe
 
-<img src="./images/badges/thm-badge.png" alt="TryHackMe Badge" />
+![TryHackMe Badge](./images/badges/thm-badge.png?last_updated=0)
 
 ## Stats
 
