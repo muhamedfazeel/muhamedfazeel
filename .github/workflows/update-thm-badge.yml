@@ -22,6 +22,10 @@ jobs:
         run: |
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
+
+          # This line adds/updates a timestamp in the README to force GitHub to refresh the image
+          sed -i "s|thm-badge.png?.*)|thm-badge.png?last_updated=$(date +%s))|g" README.md
+          
           git add images/badges/thm-badge.png
           git commit -m "Update THM Badge" || exit 0
           git push
